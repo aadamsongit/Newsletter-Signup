@@ -10,3 +10,5 @@ There are other areas where I debugged or did my work completely independently, 
 (as current Bootstrap no longer features Jumbotrons). 
 
 Enjoy! (And if you subscribe to my albeit-nonexistent newsletter, my audience page on Mailchimp will actually receive your input and I'll see an email on my audience page. I've tested this by creating users on my end. ;))
+
+Note: I removed the API key from the code because Mailchimp disables it for being public if I don't.
