@@ -69,7 +69,7 @@ app.listen(process.env.PORT || 3000, function () {
 })
 
 // API Keys
-// 4b6f3b052beee0eb2ae82e316a8ae9bf-us18
+// (removed for public web)
 
 // Audience ID for Mailchimp:
 // bf97d67be5
