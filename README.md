@@ -9,6 +9,6 @@ That's okay with me: I'm here to build my skills, so I did a lot of digging arou
 There are other areas where I debugged or did my work completely independently, such as setting up Express to serve static files or finding a workaround for the Jumbotron
 (as current Bootstrap no longer features Jumbotrons). 
 
-Enjoy! (And if you subscribe to my albeit-nonexistent newsletter, my audience page on Mailchimp will actually receive your input and I'll see an email on my audience page. I've tested this by creating users on my end. ;))
+Enjoy! (And if you subscribe to my albeit-nonexistent newsletter, my audience page on Mailchimp will actually receive your input and I'll see an email address added to my audience page. I've tested this by creating users on my end. ;))
 
-Note: I removed the API key from the code because Mailchimp disables it for being public if I don't.
+Note: I removed the API key from the code because Mailchimp disables it for being public. The deployed version has integration with the API.
